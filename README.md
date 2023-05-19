@@ -1,17 +1,17 @@
-# Collection of my Star Trek Bridge Commander Mods
+# Collection Star Trek Bridge Commander Mods
 
-**Official Releases**
-moddb: [Bridge Commander Remastered](https://www.moddb.com/games/star-trek-bridge-commander/downloads/bridge-commander-remastered)
+**Official Releases**<br />
+moddb: [Bridge Commander Remastered](https://www.moddb.com/games/star-trek-bridge-commander/downloads/bridge-commander-remastered)<br />
 nexusmods: [BC Remastered V1.2](https://www.nexusmods.com/startrekbridgecommmander/mods/4012?tab=files)
 
-**Bridges**
+**Bridges**<br />
 TBC
 
-**UI Mods**
+**UI Mods**<br />
 TBC
 
-**Uniforms**
+**Uniforms**<br />
 TBC
 
-**Ships**
+**Ships**<br />
 Odyssey Class - Discord: narrowcwyfe#0007
