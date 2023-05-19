@@ -18,6 +18,6 @@ TBC
 **Ships**<br />
 
 Author - Discord: narrowcwyfe#0007 <br />
-- Odyssey Class: [[Preview 1](./ships/Preview/Odyssey01.png)|[Preview 2](./ships/Preview/Odyssey02.png)|[Preview 3](./ships/Preview/Odyssey03.jpg)]
-- Saturn Class
-- Janeway Class
+- Odyssey Class: [[Preview 1](./ships/Preview/Odyssey01.png)|[Preview 2](./ships/Preview/Odyssey02.png)|[Preview 3](./ships/Preview/Odyssey03.jpg)] - [**Download**](./ships/Release/Odyssey%20Class.zip)] 
+- Saturn Class - [**Download**](./ships/Release/Saturn%20Class%20U.S.S.%20Gateway.zip)]
+- Janeway Class - [**Download**](./ships/Release/Janeway%20Class.zip)]
