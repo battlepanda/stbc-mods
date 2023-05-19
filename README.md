@@ -2,21 +2,24 @@
 ⚠ All mods linked here have been uploaded with permission<br />
 ⚠ All mods have been tested with ST:BC with the Remastered Mod applied
 
-**Official Releases**<br />
+## Official Releases
+### Bridge Commander: Kobayashi Maru
+moddb: [Bridge Commander: Kobayashi Maru](https://www.moddb.com/mods/bridge-commander-kobayashi-maru/downloads)<br />
+
+### Bridge Commander Remastered
 moddb: [Bridge Commander Remastered](https://www.moddb.com/games/star-trek-bridge-commander/downloads/bridge-commander-remastered)<br />
 nexusmods: [BC Remastered V1.2](https://www.nexusmods.com/startrekbridgecommmander/mods/4012?tab=files)
 
-**Bridges**<br />
+### Bridges
 TBC
 
-**UI Mods**<br />
+### UI Mods
 TBC
 
-**Uniforms**<br />
+### Uniforms
 TBC
 
-**Ships**<br />
-
+### Ships
 Author: hexagonal_nexul | Discord: narrowcwyfe#0007 | Youtube: [@hexagonal_nexul](https://www.youtube.com/@hexagonal_nexul) <br />
 - Odyssey Class: [[Preview 1](./ships/Preview/Odyssey01.png)|[Preview 2](./ships/Preview/Odyssey02.png)|[Preview 3](./ships/Preview/Odyssey03.jpg)|[Video Preview](https://www.youtube.com/watch?v=BjI3S0DWR0A)]<br />
   - [**Download**](https://github.com/battlepanda/stbc-mods/raw/main/ships/Release/Odyssey%20Class.zip) | MD5: ab9811ab1a4f7d831d6c0a0813c69487
