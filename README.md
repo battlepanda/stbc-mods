@@ -10,6 +10,9 @@ moddb: [Bridge Commander: Kobayashi Maru](https://www.moddb.com/mods/bridge-comm
 moddb: [Bridge Commander Remastered](https://www.moddb.com/games/star-trek-bridge-commander/downloads/bridge-commander-remastered)<br />
 nexusmods: [BC Remastered V1.2](https://www.nexusmods.com/startrekbridgecommmander/mods/4012?tab=files)
 
+### 4GB Patch
+This very little tool patches x86 executables in order to let them have 4GB (instead of only 2) of virtual memory on x64 platforms: [Download](https://ntcore.com/?page_id=371)
+
 ### Bridges
 TBC
 
